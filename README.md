@@ -3,13 +3,13 @@ Why there are no updates?
 I have decided to discontinue Hetek Trials. This game was my first video game, and because of this, it has some major flaws that need to be adressed.
 
 What's next?
-The game is going to be remade under a new name - Nano Temple Trials. (Decided to remove my nickname from my projects, it's too corny anyway)
+The game is going to be remade under a new name - Nano Space Trials. (Decided to remove my nickname from my projects, it's too corny anyway)
 Some stuff from v0.4.0 is going to be transferred to the new game, but most assets will be tweaked/remade to separate the new game from Hetek Trials.
 
 What's gonna happen with this game?
 I'm gonna leave the repository here, even after Nano Temple Trials releases.
 
-When is Nano Temple Trials going to release?
+When is Nano Space Trials going to release?
 I don't know yet. As of the day of writing this, I'm starting its development.
 
 --- DESCRIPTION OF HETEK TRIALS ---
