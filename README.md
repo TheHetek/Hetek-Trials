@@ -10,7 +10,7 @@ What's gonna happen with this game?
 I'm gonna leave the repository here, even after Nano Temple Trials releases.
 
 When is Nano Temple Trials going to release?
-I don't know yet. As of the day of writing this news, I'm starting its development.
+I don't know yet. As of the day of writing this, I'm starting its development.
 
 --- DESCRIPTION OF HETEK TRIALS ---
 A simple, yet quite interesting platformer, which is also my true first video game. All of the pixelart was designed by myself.
