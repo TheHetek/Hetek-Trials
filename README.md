@@ -7,7 +7,7 @@ The game is going to be remade under a new name - Nano Space Trials. (Decided to
 Some stuff from v0.4.0 is going to be transferred to the new game, but most assets will be tweaked/remade to separate the new game from Hetek Trials.
 
 What's gonna happen with this game?
-I'm gonna leave the repository here, even after Nano Temple Trials releases.
+I'm gonna leave the repository here, even after Nano Space Trials releases.
 
 When is Nano Space Trials going to release?
 I don't know yet. As of the day of writing this, I'm starting its development.
